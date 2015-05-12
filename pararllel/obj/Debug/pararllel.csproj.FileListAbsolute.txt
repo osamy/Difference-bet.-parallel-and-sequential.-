@@ -1,0 +1,13 @@
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\bin\Debug\pararllel.exe.config
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\bin\Debug\pararllel.exe
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\bin\Debug\pararllel.pdb
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\pararllel.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\MainWindow.baml
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\MainWindow.g.cs
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\App.g.cs
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\pararllel_MarkupCompile.cache
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\pararllel.g.resources
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\pararllel.Properties.Resources.resources
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\pararllel.csproj.GenerateResource.Cache
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\pararllel.exe
+c:\users\sony\documents\visual studio 2012\Projects\pararllel\pararllel\obj\Debug\pararllel.pdb
